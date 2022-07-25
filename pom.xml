@@ -18,9 +18,6 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-	<properties>
-		<java.version>1.8</java.version>
-	</properties>
 	<dependencies>
 		<!-- JSP Dependency -->
 		<!-- <dependency> <groupId>javax.servlet.jsp</groupId> <artifactId>javax.servlet.jsp-api</artifactId> 
